@@ -3,3 +3,5 @@ spring:
     name: springcloud-config-test
   profiles:
     active: test
+config:
+  info: "master branch,springcloud-config/config-test.yml version=7"
