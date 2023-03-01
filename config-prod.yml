@@ -2,4 +2,4 @@ spring:
   application:
     name: springcloud-config-prod
   profiles:
-    active: prod
+    active: 1232
